@@ -1,0 +1,26 @@
+﻿  main.cpp
+C:\Users\Mocha\Documents\GitHub\TuitionCentreManagement\DSTR-TuitionCentreManagement - Array\DSTR-TuitionCentreManagement\main.cpp(172,23): warning C4099: 'TutorDArray': type name first seen using 'class' now seen using 'struct'
+C:\Users\Mocha\Documents\GitHub\TuitionCentreManagement\DSTR-TuitionCentreManagement - Array\DSTR-TuitionCentreManagement\General.h(297): message : see declaration of 'TutorDArray'
+C:\Users\Mocha\Documents\GitHub\TuitionCentreManagement\DSTR-TuitionCentreManagement - Array\DSTR-TuitionCentreManagement\main.cpp(185,23): warning C4099: 'TutorDArray': type name first seen using 'class' now seen using 'struct'
+C:\Users\Mocha\Documents\GitHub\TuitionCentreManagement\DSTR-TuitionCentreManagement - Array\DSTR-TuitionCentreManagement\General.h(297): message : see declaration of 'TutorDArray'
+C:\Users\Mocha\Documents\GitHub\TuitionCentreManagement\DSTR-TuitionCentreManagement - Array\DSTR-TuitionCentreManagement\main.cpp(220,26): warning C4099: 'TuitionDArray': type name first seen using 'class' now seen using 'struct'
+C:\Users\Mocha\Documents\GitHub\TuitionCentreManagement\DSTR-TuitionCentreManagement - Array\DSTR-TuitionCentreManagement\General.h(413): message : see declaration of 'TuitionDArray'
+C:\Users\Mocha\Documents\GitHub\TuitionCentreManagement\DSTR-TuitionCentreManagement - Array\DSTR-TuitionCentreManagement\main.cpp(257,25): warning C4099: 'RatingDArray': type name first seen using 'class' now seen using 'struct'
+C:\Users\Mocha\Documents\GitHub\TuitionCentreManagement\DSTR-TuitionCentreManagement - Array\DSTR-TuitionCentreManagement\General.h(469): message : see declaration of 'RatingDArray'
+  Tutor.cpp
+C:\Users\Mocha\Documents\GitHub\TuitionCentreManagement\DSTR-TuitionCentreManagement - Array\DSTR-TuitionCentreManagement\Tutor.cpp(795,20): warning C4099: 'TutorDArray': type name first seen using 'class' now seen using 'struct'
+C:\Users\Mocha\Documents\GitHub\TuitionCentreManagement\DSTR-TuitionCentreManagement - Array\DSTR-TuitionCentreManagement\General.h(297): message : see declaration of 'TutorDArray'
+C:\Users\Mocha\Documents\GitHub\TuitionCentreManagement\DSTR-TuitionCentreManagement - Array\DSTR-TuitionCentreManagement\Tutor.cpp(1055,22): warning C4099: 'TutorDArray': type name first seen using 'class' now seen using 'struct'
+C:\Users\Mocha\Documents\GitHub\TuitionCentreManagement\DSTR-TuitionCentreManagement - Array\DSTR-TuitionCentreManagement\General.h(297): message : see declaration of 'TutorDArray'
+C:\Users\Mocha\Documents\GitHub\TuitionCentreManagement\DSTR-TuitionCentreManagement - Array\DSTR-TuitionCentreManagement\Tutor.cpp(1113,22): warning C4099: 'TutorDArray': type name first seen using 'class' now seen using 'struct'
+C:\Users\Mocha\Documents\GitHub\TuitionCentreManagement\DSTR-TuitionCentreManagement - Array\DSTR-TuitionCentreManagement\General.h(297): message : see declaration of 'TutorDArray'
+C:\Users\Mocha\Documents\GitHub\TuitionCentreManagement\DSTR-TuitionCentreManagement - Array\DSTR-TuitionCentreManagement\Tutor.cpp(1166,22): warning C4099: 'TutorDArray': type name first seen using 'class' now seen using 'struct'
+C:\Users\Mocha\Documents\GitHub\TuitionCentreManagement\DSTR-TuitionCentreManagement - Array\DSTR-TuitionCentreManagement\General.h(297): message : see declaration of 'TutorDArray'
+  Generating Code...
+C:\Users\Mocha\Documents\GitHub\TuitionCentreManagement\DSTR-TuitionCentreManagement - Array\DSTR-TuitionCentreManagement\Tutor.cpp(209): warning C4172: returning address of local variable or temporary: result
+C:\Users\Mocha\Documents\GitHub\TuitionCentreManagement\DSTR-TuitionCentreManagement - Array\DSTR-TuitionCentreManagement\Tutor.cpp(215): warning C4172: returning address of local variable or temporary: result
+C:\Users\Mocha\Documents\GitHub\TuitionCentreManagement\DSTR-TuitionCentreManagement - Array\DSTR-TuitionCentreManagement\Tutor.cpp(222): warning C4172: returning address of local variable or temporary: result
+C:\Users\Mocha\Documents\GitHub\TuitionCentreManagement\DSTR-TuitionCentreManagement - Array\DSTR-TuitionCentreManagement\Tutor.cpp(1067): warning C4172: returning address of local variable or temporary: tutorArr
+C:\Users\Mocha\Documents\GitHub\TuitionCentreManagement\DSTR-TuitionCentreManagement - Array\DSTR-TuitionCentreManagement\Tutor.cpp(1125): warning C4172: returning address of local variable or temporary: tutorArr
+C:\Users\Mocha\Documents\GitHub\TuitionCentreManagement\DSTR-TuitionCentreManagement - Array\DSTR-TuitionCentreManagement\Tutor.cpp(1177): warning C4172: returning address of local variable or temporary: tutorArr
+  DSTR-TuitionCentreManagement.vcxproj -> C:\Users\Mocha\Documents\GitHub\TuitionCentreManagement\DSTR-TuitionCentreManagement - Array\x64\Debug\DSTR-TuitionCentreManagement.exe

@@ -1,0 +1,5 @@
+S001	Science	50	
+S002	Maths	40	
+S003	Malay	15	
+S004	English	30	
+S005	Chinese	20	

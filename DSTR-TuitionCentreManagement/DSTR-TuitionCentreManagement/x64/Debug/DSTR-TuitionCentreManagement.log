@@ -1,0 +1,21 @@
+﻿  Login.cpp
+  Menu.cpp
+  Rating.cpp
+C:\Users\Mocha\Documents\GitHub\TuitionCentreManagement\DSTR-TuitionCentreManagement\DSTR-TuitionCentreManagement\Rating.cpp(171,17): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  Student.cpp
+  Subject.cpp
+  Tuition.cpp
+  TuitionCentre.cpp
+  Tutor.cpp
+  main.cpp
+  Generating Code...
+C:\Users\Mocha\Documents\GitHub\TuitionCentreManagement\DSTR-TuitionCentreManagement\DSTR-TuitionCentreManagement\Tutor.cpp(201): warning C4172: returning address of local variable or temporary: node
+C:\Users\Mocha\Documents\GitHub\TuitionCentreManagement\DSTR-TuitionCentreManagement\DSTR-TuitionCentreManagement\TuitionCentre.cpp(64): warning C4172: returning address of local variable or temporary: node
+C:\Users\Mocha\Documents\GitHub\TuitionCentreManagement\DSTR-TuitionCentreManagement\DSTR-TuitionCentreManagement\TuitionCentre.cpp(76): warning C4172: returning address of local variable or temporary: node
+C:\Users\Mocha\Documents\GitHub\TuitionCentreManagement\DSTR-TuitionCentreManagement\DSTR-TuitionCentreManagement\Tuition.cpp(70): warning C4172: returning address of local variable or temporary: node
+C:\Users\Mocha\Documents\GitHub\TuitionCentreManagement\DSTR-TuitionCentreManagement\DSTR-TuitionCentreManagement\Subject.cpp(59): warning C4172: returning address of local variable or temporary: node
+C:\Users\Mocha\Documents\GitHub\TuitionCentreManagement\DSTR-TuitionCentreManagement\DSTR-TuitionCentreManagement\Subject.cpp(71): warning C4172: returning address of local variable or temporary: node
+C:\Users\Mocha\Documents\GitHub\TuitionCentreManagement\DSTR-TuitionCentreManagement\DSTR-TuitionCentreManagement\Student.cpp(60): warning C4172: returning address of local variable or temporary: node
+C:\Users\Mocha\Documents\GitHub\TuitionCentreManagement\DSTR-TuitionCentreManagement\DSTR-TuitionCentreManagement\Student.cpp(79): warning C4172: returning address of local variable or temporary: node
+C:\Users\Mocha\Documents\GitHub\TuitionCentreManagement\DSTR-TuitionCentreManagement\DSTR-TuitionCentreManagement\Rating.cpp(117): warning C4172: returning address of local variable or temporary: node
+  DSTR-TuitionCentreManagement.vcxproj -> C:\Users\Mocha\Documents\GitHub\TuitionCentreManagement\DSTR-TuitionCentreManagement\x64\Debug\DSTR-TuitionCentreManagement.exe
